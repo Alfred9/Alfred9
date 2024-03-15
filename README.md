@@ -6,7 +6,7 @@
 
 - 💬 Skills **Python, SQL, Machine Learning, NLP, Data visualization, Spark NLP, Deep Learning, Power BI, Microsoft Azure AI**
 
-- 📫 How to reach me **isairalfred@gmail.com**
+- 📫 How to reach me **alfredisair@outlook.com.com**
 
 -  **I am currently working on** - LLMs Fine-Tuning and GenAI
 
@@ -27,6 +27,6 @@
   <a href="https://azure.microsoft.com/en-us/services/cognitive-services/language/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/25946165?s=200&v=4" alt="Microsoft Azure AI" width="40" height="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfredIsair&show_icons=true&locale=en&layout=compact" alt="AlfredIsair" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alfred9&show_icons=true&locale=en&layout=compact" alt="Alfred9" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlfredIsair" alt="AlfredIsair" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlfredIsair" alt="Alfred9" /></a> </p>
