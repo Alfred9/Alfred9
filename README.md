@@ -6,8 +6,6 @@
 
 - 💬 Skills **Python, SQL, Machine Learning, NLP, Data visualization, Spark NLP, Deep Learning, Power BI, Microsoft Azure AI**
 
-- 📫 How to reach me **alfredisair@outlook.com**
-
 -  **I am currently working on** - LLMs Fine-Tuning and GenAI
 
 
