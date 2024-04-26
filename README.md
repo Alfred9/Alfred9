@@ -4,7 +4,7 @@
 <h3 align="center"> Data scientist</h3>
 
 
-- 💬 Skills **Python, SQL, Machine Learning, NLP, Data visualization, Spark NLP, Deep Learning, Power BI, Microsoft Azure AI**
+- 💬 Skills **Python, SQL, Machine Learning, NLP, Data visualization, Spark NLP, Deep Learning, Power BI, Microsoft Azure**
 
 -  **I am currently working on** - LLMs Fine-Tuning and GenAI
 
