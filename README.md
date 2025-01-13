@@ -6,7 +6,7 @@
 
 - 💬 Skills **Python,AI Workflow Development,Natural Language Processsing, Data Engineering, SQL, Machine Learning, Deep Learning, Power BI, Microsoft Azure**
 
--  **I am currently working on** - LLMs Fine-Tuning and GenAI
+-  **I am currently working on** - LLMs Fine-Tuning and AI agents Workflows
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
